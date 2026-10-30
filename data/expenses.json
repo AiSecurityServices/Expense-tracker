@@ -1,0 +1,145 @@
+[
+  {
+    "id": "exp-1",
+    "category": "Venue - Probotok Office (HQ)",
+    "itemName": "Floor Rent (8th Floor)",
+    "vendorOrPerson": "Venue Management",
+    "serviceType": "Rent",
+    "qty": 1,
+    "amount": 75000,
+    "date": "2026-05-01",
+    "notes": "Monthly HQ 8th floor lease"
+  },
+  {
+    "id": "exp-2",
+    "category": "Venue - Probotok Office (HQ)",
+    "itemName": "Service Charge",
+    "vendorOrPerson": "Building Authority",
+    "serviceType": "Maintenance",
+    "qty": 1,
+    "amount": 12500,
+    "date": "2026-05-02",
+    "notes": "Building common area maintenance"
+  },
+  {
+    "id": "exp-3",
+    "category": "Venue - Probotok Office (HQ)",
+    "itemName": "Electricity & Demand Charge",
+    "vendorOrPerson": "DESCO / DPDC",
+    "serviceType": "Utility",
+    "qty": 1,
+    "amount": 18450,
+    "date": "2026-05-05",
+    "notes": "Peak + Off-peak unit charges"
+  },
+  {
+    "id": "exp-4",
+    "category": "Venue - Probotok Office (HQ)",
+    "itemName": "Generator Backup & Fuel Bill",
+    "vendorOrPerson": "Building Authority",
+    "serviceType": "Utility",
+    "qty": 1,
+    "amount": 4200,
+    "date": "2026-05-05",
+    "notes": "May 2026 backup power provision"
+  },
+  {
+    "id": "exp-5",
+    "category": "Venue - Probotok Office (HQ)",
+    "itemName": "Sign Board Annual/Monthly Charge",
+    "vendorOrPerson": "City Corporation / Venue",
+    "serviceType": "Branding",
+    "qty": 1,
+    "amount": 1500,
+    "date": "2026-05-06",
+    "notes": "Rooftop & entrance signage fee"
+  },
+  {
+    "id": "exp-6",
+    "category": "Groceries & Supplies",
+    "itemName": "Coffee Beans, Tea & Sugar",
+    "vendorOrPerson": "Pantry Store",
+    "serviceType": "Pantry",
+    "qty": 10,
+    "amount": 3400,
+    "date": "2026-05-03",
+    "notes": "Monthly pantry replenishment"
+  },
+  {
+    "id": "exp-7",
+    "category": "Groceries & Supplies",
+    "itemName": "Mineral Drinking Water Jars",
+    "vendorOrPerson": "Aqua Pure Ltd",
+    "serviceType": "Water Supply",
+    "qty": 25,
+    "amount": 2500,
+    "date": "2026-05-04",
+    "notes": "20L jar refills for office dispensers"
+  },
+  {
+    "id": "exp-8",
+    "category": "Groceries & Supplies",
+    "itemName": "Tissue Boxes & Hand Sanitizers",
+    "vendorOrPerson": "Unimart / Bazar",
+    "serviceType": "Sanitation",
+    "qty": 12,
+    "amount": 1850,
+    "date": "2026-05-07",
+    "notes": "Desk & restroom supplies"
+  },
+  {
+    "id": "exp-9",
+    "category": "Office Cleaning - Krishno",
+    "itemName": "Bi-Weekly Cleaning Service & Dusting",
+    "vendorOrPerson": "Krishno (Service Staff)",
+    "serviceType": "Janitorial",
+    "qty": 1,
+    "amount": 4500,
+    "date": "2026-05-04",
+    "notes": "Office deep cleaning & floor scrub"
+  },
+  {
+    "id": "exp-10",
+    "category": "Office Cleaning - Krishno",
+    "itemName": "Cleaning Supplies & Disinfectants",
+    "vendorOrPerson": "Krishno",
+    "serviceType": "Materials",
+    "qty": 5,
+    "amount": 1600,
+    "date": "2026-05-08",
+    "notes": "Floor cleaner, mops & microfiber cloths"
+  },
+  {
+    "id": "exp-11",
+    "category": "Utility/service & office equipment",
+    "itemName": "High-Speed Dedicated Fiber Internet",
+    "vendorOrPerson": "Dot Internet",
+    "serviceType": "ISP",
+    "qty": 1,
+    "amount": 6500,
+    "date": "2026-05-02",
+    "notes": "50Mbps corporate dedicated line"
+  },
+  {
+    "id": "exp-12",
+    "category": "Utility/service & office equipment",
+    "itemName": "Air Conditioning Servicing & Gas Top-up",
+    "vendorOrPerson": "CoolTech Engineering",
+    "serviceType": "AC Maintenance",
+    "qty": 3,
+    "amount": 5400,
+    "date": "2026-05-09",
+    "notes": "Server room and conference AC units"
+  },
+  {
+    "id": "exp-13",
+    "category": "Utility/service & office equipment",
+    "itemName": "HP LaserJet Toner Cartridges",
+    "vendorOrPerson": "Ryans Computers",
+    "serviceType": "Hardware",
+    "qty": 2,
+    "amount": 7200,
+    "date": "2026-05-10",
+    "notes": "Black toner for Admin & Accounts printers"
+  }
+]
